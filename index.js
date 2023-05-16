@@ -71,10 +71,6 @@ app.get("/", (request, response) => {
 });
 
 // Start een http server op het ingestelde poortnummer en log de url
-http.listen(port, () => {
-    console.log("listening on http://localhost:" + port);
-});
-
 app.listen(port, () => {
     console.log("listening on http://localhost:" + port);
 });
