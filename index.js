@@ -75,9 +75,8 @@ http.listen(port, () => {
     console.log("listening on http://localhost:" + port);
 });
 
-// Listen on `port` and 0.0.0.0
-app.listen(port, "8.0.0.0", function () {
-    // ...
+app.listen(port, () => {
+    console.log("listening on http://localhost:" + port);
 });
 
 /**
