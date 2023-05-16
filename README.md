@@ -1,37 +1,9 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Chat Vini Mini
 
-# Titel
+![image](https://github.com/Amberhva/connecting-people-my-first-chatroom/assets/112861033/99769244-9b65-4a25-b320-3d4340467039)
 
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+## Live Link
 
-## Inhoudsopgave
-
-- [Beschrijving](#beschrijving)
-- [Gebruik](#gebruik)
-- [Kenmerken](#kenmerken)
-- [Installatie](#installatie)
-- [Bronnen](#bronnen)
-- [Licentie](#licentie)
-
-## Beschrijving
-
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
-## Gebruik
-
-<!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
-
-## Kenmerken
-
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
-
-## Installatie
-
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
-
-## Bronnen
 
 ## Licentie
 
