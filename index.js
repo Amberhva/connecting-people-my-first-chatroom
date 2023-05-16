@@ -75,6 +75,11 @@ http.listen(port, () => {
     console.log("listening on http://localhost:" + port);
 });
 
+// Listen on `port` and 0.0.0.0
+app.listen(port, "0.0.0.0", function () {
+    // ...
+});
+
 /**
  * Wraps the fetch api and returns the response body parsed through json
  * @param {*} url the api endpoint to address
