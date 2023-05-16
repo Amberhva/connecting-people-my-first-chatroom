@@ -12,26 +12,37 @@
 - [Licentie](#licentie)
 
 ## Beschrijving
+De opdracht was om een chat te maken, in de stijl van je gekozen opdrachtgever. Dit heb ik gedaan met behulp van `Socket.io`, `Node.js` & `Express` zodat ouders op de Vini Mini website met elkaar kunnen chatten.
 
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-
-
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
-dust-chatroom.up.railway.app
+## Github Pages 🌐
+[dust-chatroom.up.railway.app](https://dust-chatroom.up.railway.app/)
 
 ## Gebruik
-
-<!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
+Deze sprint heb ik samen met mijn team gekozen voor de volgende user-story: #2 - Connection tussen Vini Minions. Daarom heb ik een chatroom gemaakt voor de ouders van Vini Mini, zodat ze met elkaar kunnen chatten
 
 ## Kenmerken
-
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
+* 👃 Node.js
+* 📟 Ejs
+* 🎇 Express
+* 📟 HTML
+* 🎨 CSS
+* 💾 JS
+* 🧦 Socket.io
+* 🚅 Railway
 
 ## Installatie
-
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
+1. Installeer Github.pages
+2. Installeer Node.js
+3. Fork de deeltaak
+4. Eenmaal geforkt, klik op `Code` en vervolgens `Open with GitHub Desktop`
+5. Kies waar je het project wilt opslaan op je computer
+6. Eenmaal opgeslagen, open Visual Studio Code
+7. Klik op `File` en dan `Open folder`
+8. Klik de folder waar je de deeltaak in heb opgeslagen
+9. Wanneer het project in VsCode staat, open de terminal
+10. Typ in `npm init`, `npm install` & `npm install socket.io`
+11. Typ daarna in `npm start`
+12. Geniet van het project
 
 ## Bronnen
 
