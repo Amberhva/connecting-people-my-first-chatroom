@@ -45,6 +45,7 @@ Deze sprint heb ik samen met mijn team gekozen voor de volgende user-story: #2 -
 12. Geniet van het project
 
 ## Bronnen
+- [Justus zijn Realtime chatroom](https://github.com/ju5tu5/barebonechat)
 
 ## Licentie
 
