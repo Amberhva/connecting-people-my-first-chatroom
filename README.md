@@ -1,8 +1,6 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Chatroom Vini Mini
 
-# Titel
-
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+![image](https://github.com/Amberhva/connecting-people-my-first-chatroom/assets/112861033/d2da9c27-6cd2-4160-b072-524d4873b475)
 
 ## Inhoudsopgave
 
@@ -17,11 +15,11 @@
 
 <!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
 <!-- Voeg een mooie poster visual toe 📸 -->
-![image](https://github.com/r20222/connecting-people-my-first-chatroom/assets/101579892/a22b944e-40d0-4ddc-a5f7-faf2fc16521f)
+
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
-https://chatroom1.adaptable.app/
+dust-chatroom.up.railway.app
 
 ## Gebruik
 
